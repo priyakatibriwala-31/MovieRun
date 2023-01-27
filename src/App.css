@@ -1,0 +1,354 @@
+body{
+  background-color:#141414;
+  
+  
+  font-family: Arial;
+  text-align: center;
+}
+.section1 ::before{
+  content: "";
+position: absolute;
+background: url("moviebg.jpg") no-repeat center center/cover;
+height: 400px;
+top:0px;
+left:0px;
+width: 100%;
+z-index: -1;
+opacity:0.9;
+}
+.header1{
+ font-style: italic;
+ font-size: 3.5rem;
+ color: azure;
+ padding-right: 20%;
+ 
+}
+  .para1{
+    font-style: revert-layer;
+    font-size: 1.7rem;
+    color: aliceblue;
+    
+  }
+
+    .heading2{
+      font-style: italic;
+      font-size: 2.5rem;
+      color: aliceblue;
+    
+   
+    }
+    .section2{
+      margin-top: 20%;
+    }
+    .card1{
+      margin-left: 20%;
+    }
+  .border1{
+   
+    width:30%;
+    margin-left:2%;
+    margin-top:5%;
+    height: 500px;
+    border-radius: 25px;
+    background: url("avatar1.jpg") no-repeat center center/cover;
+
+  }
+  .border2{
+
+    width:30%;
+    margin-left: 2%;
+    border-radius: 25px;
+    background: url("wednesday.jpg") no-repeat center center/cover;
+    height:500px;
+   
+    margin-top:5%;
+   
+  }
+  .border3{
+   
+    width: 30%;
+    margin-left:2%;
+    border-radius: 25px;
+    background: url("menu.jpg") no-repeat center center/cover;
+    height:500px;
+   
+    margin-top:5%;
+  }
+  .flexy{
+    display: flex;
+    flex-direction: row;
+   
+  }
+  .paramo{
+    font-style: revert-layer;
+    font-size: 1.7rem;
+    color: aliceblue;
+    margin-top: 135%;
+  }
+  .para2{
+    
+    font-style: revert-layer;
+    font-size: 1.7rem;
+    color: aliceblue;
+      margin-top: 135%;
+    }
+     
+.para3{
+ 
+  font-style: revert-layer;
+  font-size: 1.7rem;
+  color: aliceblue;
+    margin-top: 135%;
+  }
+   .border1:hover{
+    box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+  transition: 0.3s;
+
+
+   }
+   .border2:hover{
+    box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+  transition: 0.3s;
+
+
+   }
+   .border3:hover{
+    box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+  transition: 0.3s;
+   }
+
+
+  .heading3{
+    font-style: italic;
+    font-size: 2.5rem;
+    color: aliceblue;
+  
+   }
+   .section3{
+    margin-top: 10%;
+  }
+  .border4{
+    
+   
+      width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("Drishyam2.jpg") no-repeat center center/cover;
+  
+    }
+    .para4{
+      font-style: revert-layer;
+      font-size: 1.7rem;
+      color: aliceblue;
+      margin-top: 135%;
+    }
+    .border4:hover{
+      box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+      transition: 0.3s;
+
+    }
+  
+   
+   .border5{
+    width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("pathan.jpg") no-repeat center center/cover;
+
+
+   }
+   .para5{
+    font-style: revert-layer;
+    font-size: 1.7rem;
+    color: aliceblue;
+    margin-top: 135%;
+
+   }
+   .border5:hover{
+    box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+    transition: 0.3s;
+   }
+   .border6{
+    width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("brahmastra.jpg") no-repeat center center/cover;
+
+   }
+   .para6{
+    font-style: revert-layer;
+    font-size: 1.7rem;
+    color: aliceblue;
+    margin-top: 135%;
+   }
+   .border6:hover{
+    box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+    transition: 0.3s;
+   }
+  
+
+   
+    .flexy1{
+      display: flex;
+      flex-direction: row;
+     
+
+     
+    }
+    .section4{
+      margin-top: 10%;
+    }
+    .flexy3{
+      display: flex;
+      flex-direction: row;
+
+    }
+    .border7{
+      width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("bhola.jpg") no-repeat center center/cover;
+
+
+    }
+    .border7:hover{
+      box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+    transition: 0.3s;
+
+    }
+    .para7{
+      font-style: revert-layer;
+      font-size: 1.7rem;
+      color: aliceblue;
+      margin-top: 135%;
+
+    }
+    .border8{
+      width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("Thankgod.jpg") no-repeat center center/cover;
+
+
+    }
+    .para8{
+      font-style: revert-layer;
+      font-size: 1.7rem;
+      color: aliceblue;
+      margin-top: 135%;
+    }
+    .border8:hover{
+      box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+    transition: 0.3s;
+    }
+    .border9{
+      width:30%;
+      margin-left:2%;
+      margin-top:5%;
+      height: 500px;
+      border-radius: 25px;
+      background: url("phonebhoot.jpg") no-repeat center center/cover;
+
+    }
+    .para9{
+      font-style: revert-layer;
+      font-size: 1.7rem;
+      color: aliceblue;
+      margin-top: 135%;
+    }
+    .border9:hover{
+      box-shadow: 4px 4px 8px 8px rgba(17, 156, 216, 0.2);
+    transition: 0.3s;
+    }
+    .section5{
+      margin-top: 10%;
+    }
+    .heading5{
+      font-style: italic;
+    font-size: 2.5rem;
+    color: aliceblue;
+
+
+    }
+    .signbutton{
+     margin: auto;
+      background-color: black;
+      
+  color: green;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 2px solid green;
+  border-radius: 25px;
+
+  cursor: pointer;
+  width:25%;
+  opacity: 0.9;
+
+      
+      
+
+    }
+    .log{
+      color: aliceblue;
+      margin-top: 2%;
+    }
+    b:hover{
+      cursor: pointer;
+      text-decoration: underline;
+      
+    
+    }
+    .Account{
+      font-style: revert-layer;
+      font-size: 1.7rem;
+      color: green;
+      margin-top:3%;
+  
+
+    }
+ input[ type= text] , [type = password]{
+margin-left: 1%;
+margin-right: 5%;
+ }
+ label{
+  color: green;
+ }
+ .container{
+  margin-top: 5%;
+  border: 2px solid green;
+  height: 300px;
+  background-color: rgba(0, 0, 0, 0.886);
+ }
+ .form{
+  margin-top: 5%;
+ }
+ .signbutton{
+  border: 2px solid green;
+  color: green;
+  padding: 1%;
+ width: 20%;
+ margin-top: 5%;
+
+ }
+ .signbutton:hover{
+  color: white;
+  background-color: green;
+ }
+    
+
+    
+  
+   
+
+   
+
